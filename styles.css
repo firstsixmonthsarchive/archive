@@ -69,7 +69,8 @@ body {
         }
     
         .header img {
-            height: 350px; /* Adjust image size on smaller screens */
+            width: 350px;
+            height: auto;
         }
     
         .instructions {
@@ -79,6 +80,9 @@ body {
         .dropdown {
             width: 90%; /* Make dropdown take full width on small screens */
             text-align: center;
+        }
+        .wrapper {
+            width:400px;
         }
         h1 {
             text-align: center;
