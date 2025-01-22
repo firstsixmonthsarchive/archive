@@ -60,3 +60,25 @@ body {
     text-align: left;
     margin: auto;
     }
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Stack the header and instructions vertically */
+        align-items: center; /* Center align items */
+        text-align: center; /* Center text in both header and instructions */
+    }
+
+    .header img {
+        height: 250px; /* Adjust image size on smaller screens */
+    }
+
+    .instructions {
+        margin-top: 20px; /* Add spacing between image and instructions */
+        padding-left: 0; /* Remove left padding */
+    }
+
+    .dropdown {
+        width: 100%; /* Make dropdown take full width on small screens */
+        text-align: center;
+    }
+}
