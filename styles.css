@@ -73,12 +73,14 @@ body {
         }
     
         .instructions {
-            margin-top: 10px; /* Add spacing between image and instructions */
             padding: 3%;
         }
     
         .dropdown {
             width: 90%; /* Make dropdown take full width on small screens */
+            text-align: center;
+        }
+        h1 {
             text-align: center;
         }
     }
