@@ -60,7 +60,7 @@ body {
 @media (max-width: 768px) {
   .header img {
       height: auto;
-      width: 400px;
+      width: 80%;
   }
 .wrapper{
     width:900px; /* specify your width here */
@@ -69,5 +69,5 @@ body {
     }
 @media (max-width: 768px) {
   .wrapper {
-    width: 420px; 
+    width: 400px; 
   }
