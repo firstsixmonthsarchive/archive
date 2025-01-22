@@ -65,5 +65,5 @@ body {
     }
 @media (max-width: 768px) {
   .wrapper {
-    flex-direction: column; /* Stack the divs vertically */
+    width: 750px; /* Stack the divs vertically */
   }
