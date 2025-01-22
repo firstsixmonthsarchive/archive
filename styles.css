@@ -78,7 +78,7 @@ body {
         }
     
         .dropdown {
-            width: 90%; /* Make dropdown take full width on small screens */
+            width: 100%; /* Make dropdown take full width on small screens */
             text-align: center;
         }
         .wrapper {
