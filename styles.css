@@ -54,7 +54,7 @@ body {
 }
     @media (max-width: 768px) {
   .instructions {
-      margin: 3%; 
+      padding: 10%; 
       font-size: 12px;
   }
 .header img {
