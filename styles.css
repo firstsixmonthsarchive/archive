@@ -43,7 +43,10 @@ body {
     align-items: center; /* Vertically center the items */
     margin: 0 auto;
 }
-
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Stack the divs vertically */
+  }
 .instructions {
     font-size: 16px;
     text-align: left;
