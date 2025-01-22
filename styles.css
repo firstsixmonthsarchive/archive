@@ -65,5 +65,5 @@ body {
     }
 @media (max-width: 768px) {
   .wrapper {
-    width: 750px; /* Stack the divs vertically */
+    width: 420px; /* Stack the divs vertically */
   }
