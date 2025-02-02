@@ -27,6 +27,7 @@ body {
 
 .dropdown button {
     padding: 12px 20px;
+    margin-top: 12px;
     font-size: 18px;
     background-color: #4CAF50;
     color: white;
@@ -86,5 +87,14 @@ body {
         }
         h1 {
             text-align: center;
+        }
+        .dropdown button {
+            margin-top: 12px;
+            font-size: 18px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
         }
     }
